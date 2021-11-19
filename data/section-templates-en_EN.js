@@ -445,4 +445,14 @@ Javascript, HTML, CSS...
 
 `,
   },
+  {
+    slug: 'todoList',
+    name: 'Todo List',
+    markdown: `## Todo List
+
+- [x]  Enable reset the data
+- [ ]  Find a better solution
+
+`,
+  },
 ]
